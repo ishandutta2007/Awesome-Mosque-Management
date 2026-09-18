@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06101E" />
+      <stop offset="50%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#022C22" />
+    </linearGradient>
+
+    <!-- Glowing Accent Gradient -->
+    <linearGradient id="emerald-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10B981">
+        <animate attributeName="stop-color" values="#10B981;#34D399;#059669;#10B981" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#F59E0B">
+        <animate attributeName="stop-color" values="#F59E0B;#FBBF24;#D97706;#F59E0B" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Subtle Radial Glow -->
+    <radialGradient id="center-glow" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#059669" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Islamic Geometric Pattern Overlay -->
+    <pattern id="islamic-pattern" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M40 0 L80 40 L40 80 L0 40 Z" fill="none" stroke="#10B981" stroke-opacity="0.07" stroke-width="1.5" />
+      <circle cx="40" cy="40" r="20" fill="none" stroke="#F59E0B" stroke-opacity="0.05" stroke-width="1.5" />
+      <path d="M40 10 L70 40 L40 70 L10 40 Z" fill="none" stroke="#6366F1" stroke-opacity="0.05" stroke-width="1" />
+      <path d="M0 0 L80 80 M80 0 L0 80" stroke="#10B981" stroke-opacity="0.03" stroke-width="1" />
+    </pattern>
+
+    <!-- Soft Drop Shadow for Foreground Text -->
+    <filter id="text-shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.8" />
+    </filter>
+
+    <filter id="badge-shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000000" flood-opacity="0.5" />
+    </filter>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1200" height="400" fill="url(#bg-grad)" rx="16" />
+  
+  <!-- Radial Glow Behind Text -->
+  <rect width="1200" height="400" fill="url(#center-glow)" rx="16" />
+
+  <!-- Geometric Pattern -->
+  <rect width="1200" height="400" fill="url(#islamic-pattern)" rx="16" />
+
+  <!-- Dynamic Glowing Mesh/Floating Spheres in Background -->
+  <g fill="none">
+    <circle cx="150" cy="100" r="180" stroke="url(#emerald-glow)" stroke-opacity="0.12" stroke-width="2">
+      <animate attributeName="r" values="180;200;180" dur="6s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1050" cy="300" r="220" stroke="url(#emerald-glow)" stroke-opacity="0.15" stroke-width="2">
+      <animate attributeName="r" values="220;190;220" dur="7s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Decorative Mosque Dome & Minaret Silhouette Lines in Background -->
+  <path d="M 600 80 Q 640 130 640 170 L 560 170 Q 560 130 600 80 Z" fill="#10B981" fill-opacity="0.04" />
+  <path d="M 590 60 L 600 40 L 610 60 Z" fill="#F59E0B" fill-opacity="0.2" />
+
+  <!-- Top Category Badge -->
+  <g transform="translate(485, 55)" filter="url(#badge-shadow)">
+    <rect x="0" y="0" width="230" height="32" rx="16" fill="#1E293B" stroke="#10B981" stroke-width="1.5" />
+    <text x="115" y="21" fill="#34D399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" text-anchor="middle">AWESOME LIST 2026</text>
+  </g>
+
+  <!-- FOREGROUND TEXT (High Contrast, Shadowed, Completely Visible) -->
+  <!-- Main Title -->
+  <text x="600" y="165" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="-0.5" text-anchor="middle" filter="url(#text-shadow)">
+    Awesome Mosque Management
+  </text>
+
+  <!-- Glowing Accent Line under Title -->
+  <rect x="350" y="192" width="500" height="4" rx="2" fill="url(#emerald-glow)" filter="url(#text-shadow)">
+    <animate attributeName="width" values="500;540;500" dur="4s" repeatCount="indefinite" />
+    <animate attributeName="x" values="350;330;350" dur="4s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Subtitle -->
+  <text x="600" y="238" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="500" text-anchor="middle" filter="url(#text-shadow)">
+    Curated List of Mosque SaaS Platforms, Open-Source Repositories &amp; Prayer Displays
+  </text>
+
+  <!-- Feature Chips / Tags at Bottom of Banner -->
+  <g transform="translate(600, 310)" text-anchor="middle" filter="url(#badge-shadow)">
+    <!-- Chip 1 -->
+    <g transform="translate(-320, 0)">
+      <rect x="0" y="0" width="180" height="34" rx="8" fill="#0F172A" fill-opacity="0.9" stroke="#334155" stroke-width="1.2" />
+      <text x="90" y="21" fill="#94A3B8" font-family="sans-serif" font-size="13" font-weight="600">🕌 Masjid SaaS</text>
+    </g>
+    <!-- Chip 2 -->
+    <g transform="translate(-120, 0)">
+      <rect x="0" y="0" width="180" height="34" rx="8" fill="#0F172A" fill-opacity="0.9" stroke="#334155" stroke-width="1.2" />
+      <text x="90" y="21" fill="#94A3B8" font-family="sans-serif" font-size="13" font-weight="600">⚡️ Open-Source ERP</text>
+    </g>
+    <!-- Chip 3 -->
+    <g transform="translate(80, 0)">
+      <rect x="0" y="0" width="180" height="34" rx="8" fill="#0F172A" fill-opacity="0.9" stroke="#334155" stroke-width="1.2" />
+      <text x="90" y="21" fill="#94A3B8" font-family="sans-serif" font-size="13" font-weight="600">📺 Digital Displays</text>
+    </g>
+    <!-- Chip 4 -->
+    <g transform="translate(280, 0)">
+      <rect x="0" y="0" width="180" height="34" rx="8" fill="#0F172A" fill-opacity="0.9" stroke="#334155" stroke-width="1.2" />
+      <text x="90" y="21" fill="#94A3B8" font-family="sans-serif" font-size="13" font-weight="600">🤲 Sacred Finance</text>
+    </g>
+  </g>
+</svg>
