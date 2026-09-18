@@ -42,35 +42,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
+> **Estimated Market Size & Industry Structure**: The global Mosque Management & Islamic Digital Tools software market is estimated at **$100M–$250M annually** (as part of the broader $1.1B+ faith-based management software sector). The market is **highly fragmented**, served by over 50+ specialized regional software providers and niche developers rather than a single dominant winner-take-all monopoly.
+
+| Product / Platform | Description | Pricing (Starting Tier) | Free Tier Limit / Free Trial | Company Size / Scale (Sorted Descending) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[IslamicFinder Mosque Tools](https://www.islamicfinder.org/)** | Global prayer times, Qibla direction, Quran app, and digital tools for masjids & congregants worldwide. | Free core ad-supported services; Premium/Plus ad-free plan from $1.99/mo ($19.99/yr) | Free forever for core prayer times, Qibla finder, and basic community features (ad-supported) | **10M+ App Downloads** & Millions of monthly active users (Est. $2M–$5M ARR / valuation scale) |
+| **[MOHID](https://mohid.net/)** | Comprehensive US mosque management, online donation kiosks, Tap & Pay terminals, and member portal. | Basic Plan at $99/mo; Professional Plan at $199/mo; Custom modular plans from $99–$214/mo | 14-day free trial & custom demo environment upon request (no software feature locks during trial) | **500+ Islamic Centers** in North America (Est. $1M–$3M ARR) |
+| **[Masjidbox](https://masjidbox.com/)** | Digital screens, branded mobile apps, announcements, event calendar, and online donation widgets for mosques. | Silver Plan at €29/mo (~$32/mo); Global All-in-One plan at €62/mo (~$68/mo) | Free forever plan for Donations, Widgets & Masjidbox One app (Screens limited to 1 manager/screen) | **2,500+ Mosques worldwide** across 40+ countries (Est. $500K–$1.5M ARR) |
+| **[Masjidal / MyMasjid Hub](https://mymasjidal.com/)** | Al-Iqamah signage, prayer displays, mobile app integration, and community donation tools. | Basic Tier at $20/mo; Pro Tier up to $90/mo (billed annually) | Free Plan available for basic Al-Iqamah signage & website widgets; 15-day free trial on paid plans (no credit card required) | **1,000+ Masjids active** across North America & UK (Est. $300K–$800K ARR) |
+| **[Masjid Solutions](https://masjidsolutions.net/)** | Modular mosque CRM, donation kiosks, IQRA school management system, and digital signage. | Modular plans starting at $50/mo for basic CRM; up to $150/mo for multi-kiosk & school modules | 30-day trial period provided with interactive custom demo environment upon request | **200+ Masjids & Islamic Schools** in North America (Est. $200K–$600K ARR) |
+| **[eMasjid](https://emasjid.in/)** | Digital mosque management platform covering household directory, donation receipts, and prayer schedules. | Standard Tier starting at ₹499/mo (~$6/mo or €15/mo for EU); Premium at ₹999/mo (~$12/mo) | Free forever Basic Plan limited to 50 household member registrations; 14-day free trial on paid plans | **150+ Masjids** in South Asia & Europe (Est. $50K–$200K ARR) |
+| **[MyMasjid (Asia)](https://mymasjid.asia/)** | Southeast Asian mosque administration suite for accounting, member database, and local event management. | Core management modules starting at RM 80/mo (~$18/mo) | 14-day free trial evaluation license available upon request | **100+ Masjids** across Malaysia & SE Asia (Est. $30K–$100K ARR) |
+| **[SmartMasjid](https://smartmasjid.app/)** | Digital TV displays for prayer schedules, iqama timing sync, and mobile community app integration. | Starter Display Plan starting at $15/mo per screen | Free forever tier for single-screen basic prayer schedule display (watermarked/limited themes) | **100+ active mosque displays** (Est. $20K–$80K ARR) |
 
 
-- **[Masjidbox](https://masjidbox.com/)**  
-
-  Popular mosque platform offering prayer-time displays, digital screens, branded apps, announcements, events, and donation tools for mosques worldwide.
-
-
-
-- **[MyMasjid, SmartMasjid, MosqueOS](https://www.mymasjid.com/)**  
-
-  Community and administration platforms covering membership, events, prayer schedules, and digital mosque operations.
-
-
-
-- **[Masjid Solutions, eMasjid, MasjidAdmin, MasjidPro, IQRA Mosque](https://www.islamicfinder.org/)**  
-
-  Regional and specialized tools for mosque administration, finance, member management, and congregational services.
-
-
-
-- **[IslamicFinder Mosque Tools & related directories](https://www.islamicfinder.org/)**  
-
-  Prayer times, mosque finder, and supporting digital tools used by many mosques and worshippers.
-
-
-
-- **[Other commercial mosque & Islamic center platforms](https://masjidbox.com/)**  
-
-  Additional solutions for donations, kiosks, mobile apps, and multi-mosque administration.
 
 
 
