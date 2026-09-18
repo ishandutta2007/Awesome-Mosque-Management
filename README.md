@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Mosque-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Mosque-Management?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Mosque-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Mosque-Management?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Mosque-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Mosque-Management?style=social" alt="GitHub Forks"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Mosque-Management" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -54,45 +54,45 @@ Whether you are a mosque administrator, imam, finance manager, or Muslim tech bu
 
 ## ⚡️ Open-Source GitHub Projects
 
-*Open-source mosque solutions empower committees with complete data sovereignty, zero licensing costs, and customization options. Sorted by GitHub star count in descending order.*
+*Open-source mosque solutions empower committees with complete data sovereignty, zero licensing costs, and customization options. Sorted by GitHub Stars_Count in descending order.*
 
-- **[choubari/Awesome-Muslims](https://github.com/choubari/Awesome-Muslims)** <a href="https://github.com/choubari/Awesome-Muslims/stargazers"><img src="https://img.shields.io/github/stars/choubari/Awesome-Muslims?style=social&color=white" alt="GitHub stars" /></a>  
+- **[choubari/Awesome-Muslims](https://github.com/choubari/Awesome-Muslims)** <a href="https://github.com/choubari/Awesome-Muslims/stargazers"><img src="https://img.shields.io/github/stars/choubari/Awesome-Muslims?style=social&color=white" alt="GitHub_Stars" /></a>  
   Curated list of open-source resources, APIs, calculation libraries, and applications for Islamic software development.
 
-- **[batoulapps/adhan-js](https://github.com/batoulapps/adhan-js)** <a href="https://github.com/batoulapps/adhan-js/stargazers"><img src="https://img.shields.io/github/stars/batoulapps/adhan-js?style=social&color=white" alt="GitHub stars" /></a>  
+- **[batoulapps/adhan-js](https://github.com/batoulapps/adhan-js)** <a href="https://github.com/batoulapps/adhan-js/stargazers"><img src="https://img.shields.io/github/stars/batoulapps/adhan-js?style=social&color=white" alt="GitHub_Stars" /></a>  
   High-precision JavaScript/TypeScript library for calculating Islamic prayer times, powering digital displays & web apps worldwide.
 
-- **[meypod/al-azan](https://github.com/meypod/al-azan)** <a href="https://github.com/meypod/al-azan/stargazers"><img src="https://img.shields.io/github/stars/meypod/al-azan?style=social&color=white" alt="GitHub stars" /></a>  
+- **[meypod/al-azan](https://github.com/meypod/al-azan)** <a href="https://github.com/meypod/al-azan/stargazers"><img src="https://img.shields.io/github/stars/meypod/al-azan?style=social&color=white" alt="GitHub_Stars" /></a>  
   Privacy-focused, open-source prayer times calculation engine and Qibla direction application built with TypeScript.
 
-- **[DBChoco/Muezzin](https://github.com/DBChoco/Muezzin)** <a href="https://github.com/DBChoco/Muezzin/stargazers"><img src="https://img.shields.io/github/stars/DBChoco/Muezzin?style=social&color=white" alt="GitHub stars" /></a>  
+- **[DBChoco/Muezzin](https://github.com/DBChoco/Muezzin)** <a href="https://github.com/DBChoco/Muezzin/stargazers"><img src="https://img.shields.io/github/stars/DBChoco/Muezzin?style=social&color=white" alt="GitHub_Stars" /></a>  
   Open-source desktop application (Windows/macOS/Linux) providing Adhan automation, prayer schedules, and Quran access.
 
-- **[choubari/Muslim-App](https://github.com/choubari/Muslim-App)** <a href="https://github.com/choubari/Muslim-App/stargazers"><img src="https://img.shields.io/github/stars/choubari/Muslim-App?style=social&color=white" alt="GitHub stars" /></a>  
+- **[choubari/Muslim-App](https://github.com/choubari/Muslim-App)** <a href="https://github.com/choubari/Muslim-App/stargazers"><img src="https://img.shields.io/github/stars/choubari/Muslim-App?style=social&color=white" alt="GitHub_Stars" /></a>  
   Native Java Android application featuring prayer calculation engines, Adhan notifications, and community Qibla utilities.
 
-- **[MosqueOS/Mosque-Prayer-Display-Screen](https://github.com/MosqueOS/Mosque-Prayer-Display-Screen)** <a href="https://github.com/MosqueOS/Mosque-Prayer-Display-Screen/stargazers"><img src="https://img.shields.io/github/stars/MosqueOS/Mosque-Prayer-Display-Screen?style=social&color=white" alt="GitHub stars" /></a>  
+- **[MosqueOS/Mosque-Prayer-Display-Screen](https://github.com/MosqueOS/Mosque-Prayer-Display-Screen)** <a href="https://github.com/MosqueOS/Mosque-Prayer-Display-Screen/stargazers"><img src="https://img.shields.io/github/stars/MosqueOS/Mosque-Prayer-Display-Screen?style=social&color=white" alt="GitHub_Stars" /></a>  
   Open-source PWA & web display software for showing mosque prayer schedules, Iqama countdowns, and announcements on TV screens.
 
-- **[digitaljamath/digitaljamath](https://github.com/digitaljamath/digitaljamath)** <a href="https://github.com/digitaljamath/digitaljamath/stargazers"><img src="https://img.shields.io/github/stars/digitaljamath/digitaljamath?style=social&color=white" alt="GitHub stars" /></a>  
+- **[digitaljamath/digitaljamath](https://github.com/digitaljamath/digitaljamath)** <a href="https://github.com/digitaljamath/digitaljamath/stargazers"><img src="https://img.shields.io/github/stars/digitaljamath/digitaljamath?style=social&color=white" alt="GitHub_Stars" /></a>  
   Community-trust software for masjids built on Frappe + ERPNext (MIT). Covers household census, Baitul Maal (Zakat/Sadaqah), member portal, receipts, and Shariah compliance.
 
-- **[dr-msr/e-masjid.my-drmsr](https://github.com/dr-msr/e-masjid.my-drmsr)** <a href="https://github.com/dr-msr/e-masjid.my-drmsr/stargazers"><img src="https://img.shields.io/github/stars/dr-msr/e-masjid.my-drmsr?style=social&color=white" alt="GitHub stars" /></a>  
+- **[dr-msr/e-masjid.my-drmsr](https://github.com/dr-msr/e-masjid.my-drmsr)** <a href="https://github.com/dr-msr/e-masjid.my-drmsr/stargazers"><img src="https://img.shields.io/github/stars/dr-msr/e-masjid.my-drmsr?style=social&color=white" alt="GitHub_Stars" /></a>  
   Free, open-source mosque management system (MIT) designed for non-technical administrators to manage mosque administration and operations.
 
-- **[novaka-dev/masjid-finance](https://github.com/novaka-dev/masjid-finance)** <a href="https://github.com/novaka-dev/masjid-finance/stargazers"><img src="https://img.shields.io/github/stars/novaka-dev/masjid-finance?style=social&color=white" alt="GitHub stars" /></a>  
+- **[novaka-dev/masjid-finance](https://github.com/novaka-dev/masjid-finance)** <a href="https://github.com/novaka-dev/masjid-finance/stargazers"><img src="https://img.shields.io/github/stars/novaka-dev/masjid-finance?style=social&color=white" alt="GitHub_Stars" /></a>  
   Open mosque finance management system (Next.js) with role-based access control, income/expense tracking, charts, and public transparency features.
 
-- **[mastomat/SIMMasjid](https://github.com/mastomat/SIMMasjid)** <a href="https://github.com/mastomat/SIMMasjid/stargazers"><img src="https://img.shields.io/github/stars/mastomat/SIMMasjid?style=social&color=white" alt="GitHub stars" /></a>  
+- **[mastomat/SIMMasjid](https://github.com/mastomat/SIMMasjid)** <a href="https://github.com/mastomat/SIMMasjid/stargazers"><img src="https://img.shields.io/github/stars/mastomat/SIMMasjid?style=social&color=white" alt="GitHub_Stars" /></a>  
   Open CodeIgniter-based mosque information and financial system with prayer timing APIs, news, activities, and member management.
 
-- **[yusuf-ravat/Smart-Masjid](https://github.com/yusuf-ravat/Smart-Masjid)** <a href="https://github.com/yusuf-ravat/Smart-Masjid/stargazers"><img src="https://img.shields.io/github/stars/yusuf-ravat/Smart-Masjid?style=social&color=white" alt="GitHub stars" /></a>  
+- **[yusuf-ravat/Smart-Masjid](https://github.com/yusuf-ravat/Smart-Masjid)** <a href="https://github.com/yusuf-ravat/Smart-Masjid/stargazers"><img src="https://img.shields.io/github/stars/yusuf-ravat/Smart-Masjid?style=social&color=white" alt="GitHub_Stars" /></a>  
   Full-stack web application (React & Node.js) featuring prayer time automation, donation tracking, and event scheduling.
 
-- **[EG-Mohamed/Mosque](https://github.com/EG-Mohamed/Mosque)** <a href="https://github.com/EG-Mohamed/Mosque/stargazers"><img src="https://img.shields.io/github/stars/EG-Mohamed/Mosque?style=social&color=white" alt="GitHub stars" /></a>  
+- **[EG-Mohamed/Mosque](https://github.com/EG-Mohamed/Mosque)** <a href="https://github.com/EG-Mohamed/Mosque/stargazers"><img src="https://img.shields.io/github/stars/EG-Mohamed/Mosque?style=social&color=white" alt="GitHub_Stars" /></a>  
   Mosque web portal and admin panel (Laravel / Filament) with multilingual (Arabic/English RTL) support, prayer times, events, page builder, and media gallery.
 
-- **[Mohd-ismail0/musallih](https://github.com/Mohd-ismail0/musallih)** <a href="https://github.com/Mohd-ismail0/musallih/stargazers"><img src="https://img.shields.io/github/stars/Mohd-ismail0/musallih?style=social&color=white" alt="GitHub stars" /></a>  
+- **[Mohd-ismail0/musallih](https://github.com/Mohd-ismail0/musallih)** <a href="https://github.com/Mohd-ismail0/musallih/stargazers"><img src="https://img.shields.io/github/stars/Mohd-ismail0/musallih?style=social&color=white" alt="GitHub_Stars" /></a>  
   Open Islamic civic infrastructure platform with map-first discovery of masjids, prayer calendar integration, and staff workflows.
 
 ---
